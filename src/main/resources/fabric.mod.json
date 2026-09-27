@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "rubis",
+	"version": "${version}",
+	"name": "Rubis",
+	"description": "Rubis is a Minecraft modifier that introduces a new resource: Ruby.",
+	"authors": [
+		"Noah Boos (Propzonzon) (Rift)"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/rubis/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"fr.noahboos.rubis.Rubis"
+		],
+		"client": [
+			"fr.noahboos.rubis.client.RubisClient"
+		],
+		"fabric-datagen": [
+			"fr.noahboos.rubis.client.RubisDataGenerator"
+		]
+	},
+	"mixins": [
+		"rubis.mixins.json",
+		{
+			"config": "rubis.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

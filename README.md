@@ -12,7 +12,7 @@ The long-term goal is to give ruby its own identity as a meaningful alternative 
 
 Ruby equipment should therefore have its own strengths and weaknesses, with statistics or mechanics that support specific playstyles. The goal is not to create a strictly superior material, but to offer a genuine choice.
 
-> If you’ve read this far, here’s a small teaser: I’m also working on another mod, Saphir, which will add… well, ruby. The idea is to create a duality between ruby and sapphire, where certain pieces of equipment from one material outperform their counterparts from the other.
+> If you've read this far, here is another mod, [*Saphir*](https://github.com/rifts-minecraft-laboratory/fabric-saphir). The idea is to create a duality between ruby and sapphire, where certain pieces of equipment from one material outperform their counterparts. Playing with both mods is therefore recommended. :3
 
 ## License
 
@@ -24,7 +24,7 @@ This document has been written with the help of ChatGPT and Perplexity AI. Every
 
 ___
 
-If you read this far... I will teach you two things!
+If you have read this far... I will teach you two things!
 
 - First thing: *Rubis* is the French word for *Ruby*.
 - Second thing: Ruby belongs to the family of corundum (*Corindon*, in French). Every corundum that is red is called ruby. Other varieties / colours of corundum are sapphire.

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "a": "rubis:ruby"
+  },
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "result": {
+    "id": "rubis:ruby_helmet"
+  }
+}

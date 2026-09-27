@@ -1,1 +1,25 @@
 // 26.2	-999999999-01-01T00:00:00	Rubis/RubisRecipeProvider
+8aa73226dfaa11ceddad833849c14590d684b4f1 data/rubis/advancement/recipes/building_blocks/ruby_block.json
+c7bc4846873e4ddbb5813d09f4483504902e7e4e data/rubis/advancement/recipes/combat/ruby_boots.json
+f1b8ad0ed90363f56171db1fcd8a1f7724768db2 data/rubis/advancement/recipes/combat/ruby_chestplate.json
+25459bcdf0b17d8abb050a4abd1c029fa1f9433f data/rubis/advancement/recipes/combat/ruby_helmet.json
+5709bfb627910941cc783e81ff7bf738493f573a data/rubis/advancement/recipes/combat/ruby_leggings.json
+55f14927bc125fc8e7a10e05414c49e2686d2de7 data/rubis/advancement/recipes/combat/ruby_spear.json
+acedc3536a09663c62290189a8423f8163affffc data/rubis/advancement/recipes/combat/ruby_sword.json
+2cd83684739e47cb108081b827fe7a1c08137524 data/rubis/advancement/recipes/misc/ruby.json
+4904ba3946e0d6240b3e4f2a9c447b52a286ea9e data/rubis/advancement/recipes/tools/ruby_axe.json
+261b3faf21c4683bc0814c918f36dc2fef397e47 data/rubis/advancement/recipes/tools/ruby_hoe.json
+2cd5031c91f4112dddb56adcb67ae2caf6d6f8df data/rubis/advancement/recipes/tools/ruby_pickaxe.json
+da0b36bf9dce31ef9a470ce65c2f27cdc4e3c8f6 data/rubis/advancement/recipes/tools/ruby_shovel.json
+3b3b535ecebbbed848ed689e19bbefc14524ba31 data/rubis/recipe/ruby.json
+81cb5b8ad50bf06fc7678240253a064292efc41e data/rubis/recipe/ruby_axe.json
+2aef567ed085ed2832d682b522d22bd0354a51e3 data/rubis/recipe/ruby_block.json
+57fa7ea34b517e085298884d146ab77cead17259 data/rubis/recipe/ruby_boots.json
+3ad44aaa3e5c7d418c32538befaa3b7963019984 data/rubis/recipe/ruby_chestplate.json
+e79a5e16a1e8ab563f0b2af37470b8d06c5b2b24 data/rubis/recipe/ruby_helmet.json
+1999cb624674a89d914e4294b27f7f35674636d4 data/rubis/recipe/ruby_hoe.json
+86c7621d2f73f53231cbdec558fb5de8548d7ab4 data/rubis/recipe/ruby_leggings.json
+916c0fae19aaead830b89ae5fc1b2a8128e2cfd2 data/rubis/recipe/ruby_pickaxe.json
+03e2900350665ce02c5d0dbc44097dedcf158ecd data/rubis/recipe/ruby_shovel.json
+b35182be5fdf634ffdcadcf1f3e40ab716985d76 data/rubis/recipe/ruby_spear.json
+70a195feb62ea891c1e7d1a8095897c04f655777 data/rubis/recipe/ruby_sword.json

@@ -2,6 +2,7 @@ package fr.noahboos.rubis.items;
 
 import fr.noahboos.rubis.Rubis;
 import fr.noahboos.rubis.items.definitions.materials.armor.RubyArmorMaterial;
+import fr.noahboos.rubis.trims.RubisTrimMaterials;
 import net.fabricmc.fabric.api.creativetab.v1.CreativeModeTabEvents;
 import net.minecraft.core.Registry;
 import net.minecraft.core.registries.BuiltInRegistries;
@@ -38,6 +39,7 @@ public class RubisItems {
         RubisItemIds.RUBY,
         Item::new,
         new Item.Properties()
+            .trimMaterial(RubisTrimMaterials.RUBY_TRIM_MATERIAL)
     );
 
     public static final Item RUBY_HELMET = register(

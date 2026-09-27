@@ -38,6 +38,9 @@ public class RubisItemTagProvider extends FabricTagsProvider.ItemTagsProvider {
             .add(RubisItemIds.RUBY_CHESTPLATE)
             .add(RubisItemIds.RUBY_LEGGINGS)
             .add(RubisItemIds.RUBY_BOOTS);
+
+        builder(ItemTags.TRIM_MATERIALS)
+            .add(RubisItemIds.RUBY);
         Rubis.LOGGER.info("Added tags to {}'s items.", Rubis.MOD_ID);
     }
 }

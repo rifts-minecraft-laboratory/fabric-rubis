@@ -1,6 +1,7 @@
 package fr.noahboos.rubis.client.datagen;
 
 import fr.noahboos.rubis.Rubis;
+import fr.noahboos.rubis.blocks.RubisBlocks;
 import net.fabricmc.fabric.api.client.datagen.v1.provider.FabricModelProvider;
 import net.fabricmc.fabric.api.datagen.v1.FabricPackOutput;
 import net.minecraft.client.data.models.BlockModelGenerators;
@@ -14,7 +15,9 @@ public class RubisModelProvider extends FabricModelProvider {
     @Override
     public void generateBlockStateModels(BlockModelGenerators blockModelGenerators) {
         Rubis.LOGGER.info("Generating {}'s block models.", Rubis.MOD_ID);
-        //
+        blockModelGenerators.createTrivialCube(RubisBlocks.RUBY_BLOCK);
+        blockModelGenerators.createTrivialCube(RubisBlocks.RUBY_ORE);
+        blockModelGenerators.createTrivialCube(RubisBlocks.DEEPSLATE_RUBY_ORE);
         Rubis.LOGGER.info("Generated {}'s block models.", Rubis.MOD_ID);
     }
 

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "rubis:block/ruby_ore"
+    }
+  }
+}

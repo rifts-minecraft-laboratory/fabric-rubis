@@ -2,5 +2,9 @@
   "block.rubis.ruby_block": "Bloc de rubis",
   "block.rubis.ruby_ore": "Minerai de rubis",
   "block.rubis.deepslate_ruby_ore": "Minerai de rubis des abîmes",
-  "item.rubis.ruby": "Rubis"
+  "item.rubis.ruby": "Rubis",
+  "item.rubis.ruby_helmet": "Casque en rubis",
+  "item.rubis.ruby_chestplate": "Plastron en rubis",
+  "item.rubis.ruby_leggings": "Jambières en rubis",
+  "item.rubis.ruby_boots": "Bottes en rubis"
 }

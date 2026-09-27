@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "rubis:ruby"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "rubis:ruby"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "rubis:ruby"
+      }
+    ]
+  }
+}

@@ -27,6 +27,10 @@ public class RubisModelProvider extends FabricModelProvider {
     public void generateItemModels(ItemModelGenerators itemModelGenerators) {
         Rubis.LOGGER.info("Generating {}'s item models.", Rubis.MOD_ID);
         itemModelGenerators.generateFlatItem(RubisItems.RUBY, ModelTemplates.FLAT_ITEM);
+        itemModelGenerators.generateFlatItem(RubisItems.RUBY_HELMET, ModelTemplates.FLAT_ITEM);
+        itemModelGenerators.generateFlatItem(RubisItems.RUBY_CHESTPLATE , ModelTemplates.FLAT_ITEM);
+        itemModelGenerators.generateFlatItem(RubisItems.RUBY_LEGGINGS, ModelTemplates.FLAT_ITEM);
+        itemModelGenerators.generateFlatItem(RubisItems.RUBY_BOOTS, ModelTemplates.FLAT_ITEM);
         Rubis.LOGGER.info("Generated {}'s item models.", Rubis.MOD_ID);
     }
 

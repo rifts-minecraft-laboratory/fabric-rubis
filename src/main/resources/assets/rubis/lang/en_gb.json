@@ -2,5 +2,9 @@
   "block.rubis.ruby_block": "Ruby block",
   "block.rubis.ruby_ore": "Ruby ore",
   "block.rubis.deepslate_ruby_ore": "Deepslate ruby ore",
-  "item.rubis.ruby": "Ruby"
+  "item.rubis.ruby": "Ruby",
+  "item.rubis.ruby_helmet": "Ruby helmet",
+  "item.rubis.ruby_chestplate": "Ruby chestplate",
+  "item.rubis.ruby_leggings": "Ruby leggings",
+  "item.rubis.ruby_boots": "Ruby boots"
 }

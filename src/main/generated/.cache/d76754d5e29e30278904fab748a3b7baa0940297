@@ -1,1 +1,7 @@
 // 26.2	-999999999-01-01T00:00:00	Rubis/Tags for minecraft:item
+95d677f943591b3bf50c07dab5a7aaf08ab69fe2 data/minecraft/tags/item/chest_armor.json
+e51010fefe28b00cdd5f9c84cdbc686f95eb420f data/minecraft/tags/item/foot_armor.json
+a2f121cef19b41180263ca381e7d1e6c72301f04 data/minecraft/tags/item/head_armor.json
+0d6552b7701091d10c8b8db0c0f8c9b6f9683a41 data/minecraft/tags/item/leg_armor.json
+b36dc3c032f94789db7932ed702bb6af4b69b7e3 data/minecraft/tags/item/trimmable_armor.json
+05c925ff224df1032b0606981493dfc2e97a58f6 data/rubis/tags/item/repairs_ruby_armor.json

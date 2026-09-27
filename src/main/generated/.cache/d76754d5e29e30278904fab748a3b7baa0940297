@@ -1,8 +1,14 @@
 // 26.2	-999999999-01-01T00:00:00	Rubis/Tags for minecraft:item
+d0569c7e31fef467ba384bfb6cbafecf61bd0944 data/minecraft/tags/item/axes.json
 95d677f943591b3bf50c07dab5a7aaf08ab69fe2 data/minecraft/tags/item/chest_armor.json
 e51010fefe28b00cdd5f9c84cdbc686f95eb420f data/minecraft/tags/item/foot_armor.json
 a2f121cef19b41180263ca381e7d1e6c72301f04 data/minecraft/tags/item/head_armor.json
+e4c1138754ba471ae9186d6799db80bca5354cf6 data/minecraft/tags/item/hoes.json
 0d6552b7701091d10c8b8db0c0f8c9b6f9683a41 data/minecraft/tags/item/leg_armor.json
+d9b154233589898bf2773f02240f9db30f126f84 data/minecraft/tags/item/pickaxes.json
+3ffe5a9089b08454235ad03e77363746e66627c2 data/minecraft/tags/item/shovels.json
+b081d3dda08cc244305a1663b651c512d6f02495 data/minecraft/tags/item/spears.json
+3385e29a5e58c5d450f52b620f80fcee50f0f4e0 data/minecraft/tags/item/swords.json
 05c925ff224df1032b0606981493dfc2e97a58f6 data/minecraft/tags/item/trim_materials.json
 b36dc3c032f94789db7932ed702bb6af4b69b7e3 data/minecraft/tags/item/trimmable_armor.json
 05c925ff224df1032b0606981493dfc2e97a58f6 data/rubis/tags/item/repairs_ruby_armor.json

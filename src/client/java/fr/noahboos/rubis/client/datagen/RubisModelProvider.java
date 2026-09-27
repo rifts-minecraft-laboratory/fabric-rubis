@@ -31,6 +31,12 @@ public class RubisModelProvider extends FabricModelProvider {
         itemModelGenerators.generateFlatItem(RubisItems.RUBY_CHESTPLATE , ModelTemplates.FLAT_ITEM);
         itemModelGenerators.generateFlatItem(RubisItems.RUBY_LEGGINGS, ModelTemplates.FLAT_ITEM);
         itemModelGenerators.generateFlatItem(RubisItems.RUBY_BOOTS, ModelTemplates.FLAT_ITEM);
+        itemModelGenerators.generateFlatItem(RubisItems.RUBY_SWORD, ModelTemplates.FLAT_HANDHELD_ITEM);
+        itemModelGenerators.generateSpear(RubisItems.RUBY_SPEAR);
+        itemModelGenerators.generateFlatItem(RubisItems.RUBY_PICKAXE, ModelTemplates.FLAT_HANDHELD_ITEM);
+        itemModelGenerators.generateFlatItem(RubisItems.RUBY_AXE, ModelTemplates.FLAT_HANDHELD_ITEM);
+        itemModelGenerators.generateFlatItem(RubisItems.RUBY_SHOVEL, ModelTemplates.FLAT_HANDHELD_ITEM);
+        itemModelGenerators.generateFlatItem(RubisItems.RUBY_HOE, ModelTemplates.FLAT_HANDHELD_ITEM);
         Rubis.LOGGER.info("Generated {}'s item models.", Rubis.MOD_ID);
     }
 

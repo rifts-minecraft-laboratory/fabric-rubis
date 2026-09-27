@@ -33,6 +33,24 @@ public class RubisItemTagProvider extends FabricTagsProvider.ItemTagsProvider {
         builder(ItemTags.FOOT_ARMOR)
             .add(RubisItemIds.RUBY_BOOTS);
 
+        builder(ItemTags.SWORDS)
+            .add(RubisItemIds.RUBY_SWORD);
+
+        builder(ItemTags.SPEARS)
+            .add(RubisItemIds.RUBY_SPEAR);
+
+        builder(ItemTags.PICKAXES)
+            .add(RubisItemIds.RUBY_PICKAXE);
+
+        builder(ItemTags.AXES)
+            .add(RubisItemIds.RUBY_AXE);
+
+        builder(ItemTags.SHOVELS)
+            .add(RubisItemIds.RUBY_SHOVEL);
+
+        builder(ItemTags.HOES)
+            .add(RubisItemIds.RUBY_HOE);
+
         builder(ItemTags.TRIMMABLE_ARMOR)
             .add(RubisItemIds.RUBY_HELMET)
             .add(RubisItemIds.RUBY_CHESTPLATE)

@@ -1,5 +1,6 @@
 {
   "block.rubis.ruby_block": "Ruby block",
   "block.rubis.ruby_ore": "Ruby ore",
-  "block.rubis.deepslate_ruby_ore": "Deepslate ruby ore"
+  "block.rubis.deepslate_ruby_ore": "Deepslate ruby ore",
+  "item.rubis.ruby": "Ruby"
 }

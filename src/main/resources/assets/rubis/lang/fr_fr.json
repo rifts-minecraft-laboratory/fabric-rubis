@@ -1,5 +1,6 @@
 {
   "block.rubis.ruby_block": "Bloc de rubis",
   "block.rubis.ruby_ore": "Minerai de rubis",
-  "block.rubis.deepslate_ruby_ore": "Minerai de rubis des abîmes"
+  "block.rubis.deepslate_ruby_ore": "Minerai de rubis des abîmes",
+  "item.rubis.ruby": "Rubis"
 }

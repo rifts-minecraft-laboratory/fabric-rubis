@@ -1,1 +1,4 @@
 // 26.2	-999999999-01-01T00:00:00	Rubis/Block Loot Tables
+52e1c4f07b720e2df08bf0b4ad4e74abaae94213 data/rubis/loot_table/blocks/deepslate_ruby_ore.json
+dd08c2042603bb2190a0125239f885beccf3e3f1 data/rubis/loot_table/blocks/ruby_block.json
+58fd4a0b70a68b7ddf22c28d7284c931597725ad data/rubis/loot_table/blocks/ruby_ore.json
